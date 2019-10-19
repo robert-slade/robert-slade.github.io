@@ -1,0 +1,40 @@
+html {
+  background-color: black;
+}
+
+h1, h2 {
+  color: white;
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40pt;
+}
+
+h2 {
+  font-size: 28pt;
+}
+
+p, a {
+  color: lightgray;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 22pt;
+  text-align: center;
+}
+
+a {
+  padding: 10px;
+}
+
+a:hover {
+  color: green;
+}
+
+#main, #error {
+  padding: 5%;
+}
+
+#links {
+  text-align: center;
+}
